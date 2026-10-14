@@ -1,0 +1,19 @@
+# Large dataset files
+data/
+*.csv
+!results/benchmark_results.csv
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+
